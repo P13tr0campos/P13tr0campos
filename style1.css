@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(29, 29, 29);;
+}
+h1{
+    color: rgb(255, 255, 255);
+    font-size: 32px;
+    font-style: arial;
+}
+p{
+    font-size: 24px;
+    color:rgb(255, 255, 255);
+    font-style: arial;
+}
+button {
+    all: unset;
+    cursor: pointer;
+    outline: revert;
+  }
+dd{
+    font-size: 24px;
+    color:rgb(255, 255, 255);
+    font-style: arial;
+}

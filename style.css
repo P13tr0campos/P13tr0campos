@@ -1,0 +1,19 @@
+body{
+    background-color: wheat;
+}
+h1{
+    color: black;
+    font-size: 32px;
+    font-style: arial;
+}
+p{
+    font-size: 24px;
+    color:black;
+    font-style: arial;
+}
+form{
+    all: unset;
+    cursor: pointer;
+    outline: revert;
+    border: tomato;
+}
